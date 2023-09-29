@@ -4,5 +4,5 @@
 
 - 😄 Pronouns: He/Him
 - 👩‍💻📊 I'm a Business Intelligence Developer working in the NHS
-- 📚 I’m currently reading "[to be a machine](https://www.theguardian.com/books/2017/mar/23/to-be-a-machine-by-mark-oconnell-review)"
-- 🏃‍♂️ When not at my laptop I can sometimes be found training for the Leeds Half Marathon
+- 🎧 I’m currently listening to "[Strike Force Five](https://strikeforcefive.com)"
+- 🏃‍♂️ When not at my laptop I can sometimes be found running for what I make myself think is fun
