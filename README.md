@@ -5,5 +5,5 @@
 - 😄 Pronouns: He/Him
 - 👩‍💻📊 I'm a Senior Business Intelligence Developer working in the NHS
 - ⌨️ I work with data, and I also build and maintain full-stack web apps in ASP.NET
-- 📖 I’m currently reading "[Wandering Souls](https://www.4thestate.co.uk/products/wandering-souls-cecile-pin-9780008528812/)"
+- 📖 I’m currently reading "[Percy Jackson and The Sea of Monsters](https://rickriordan.com/series/percy-jackson-and-the-olympians/)"
 - 🏃‍♂️ When not at my laptop I can sometimes be found running for what I make myself think is fun
