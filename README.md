@@ -1,4 +1,4 @@
-### Hi there 👋. My name is [Thomas](https://tomwillgoto.space).
+### Hi there 👋. My name is Thomas.
 
 - 😄 Pronouns: He/Him
 - 👩‍💻📊 I'm a Software Developer working in the public sector
